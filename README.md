@@ -30,9 +30,27 @@ I also like to develop games during my free time :D 🎮
   &nbsp;
   <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="icons/PostgreSQL.png" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://reactjs.org/" title="React"><img src="icons/React.png" height="35" width="auto" /></a>
+  <a href="https://reactjs.org/" title="ReactJS"><img src="icons/ReactJS.png" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="https://redux.js.org/" title="Redux"><img src="icons/Redux.png" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="https://nodejs.org/en/" title="NodeJS"><img src="icons/NodeJS.png" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="https://unity.com/" title="Unity"><img src="icons/Unity.png" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" title="C#"><img src="icons/CSharp.png" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://rubyonrails.org/" title="Ruby on Rails"><img src="icons/Rails.png" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="https://getbootstrap.com/docs/4.6/getting-started/introduction/" title="Bootstrap 4"><img src="icons/Bootstrap4.png" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="https://git-scm.com/" title="Git"><img src="icons/Git.png" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="https://docs.soliditylang.org/en/v0.8.17/" title="Solidity"><img src="icons/Solidity.png" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="https://www.adobe.com/sg/products/photoshop.html" title="Adobe Photoshop"><img src="icons/Photoshop.png" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="https://www.adobe.com/sg/products/premiere.html" title="Adobe Premiere Pro"><img src="icons/PremierePro.png" height="35" width="auto" /></a>
   &nbsp;
 </p>
 <!-- markdownlint-enable MD033 -->
