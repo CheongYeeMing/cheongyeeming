@@ -28,6 +28,8 @@ I also like to develop games during my free time :D 🎮
   &nbsp;
   <a href="https://www.javascript.com/" title="Javascript"><img src="icons/Javascript.png" height="35" width="auto" /></a>
   &nbsp;
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="icons/PostgreSQL.png" height="35" width="auto" /></a>
+  &nbsp;
 </p>
 <!-- markdownlint-enable MD033 -->
 
