@@ -57,7 +57,7 @@ I also like to develop games during my free time :D 🎮
 
 ## Find out more about me at
 
-- <p>[<a href="https://www.adobe.com/sg/products/premiere.html" title="Adobe Premiere Pro"><img src="icons/PremierePro.png" height="35" width="auto" /></a>](https://www.linkedin.com/in/yee-ming-cheong-b18558212/) Connect with me</p>
+- <p>![<a href="https://www.adobe.com/sg/products/premiere.html" title="Adobe Premiere Pro"><img src="icons/PremierePro.png" height="35" width="auto" /></a>](https://www.linkedin.com/in/yee-ming-cheong-b18558212/) Connect with me</p>
 - [YouTube](https://www.youtube.com/channel/UCNwfenK31JlxQmSkiC2YBHA) Watch my videos
 
 <!--
