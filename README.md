@@ -30,6 +30,10 @@ I also like to develop games during my free time :D 🎮
   &nbsp;
   <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="icons/PostgreSQL.png" height="35" width="auto" /></a>
   &nbsp;
+  <a href="https://reactjs.org/" title="React"><img src="icons/React.png" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="https://rubyonrails.org/" title="Ruby on Rails"><img src="icons/Rails.png" height="35" width="auto" /></a>
+  &nbsp;
 </p>
 <!-- markdownlint-enable MD033 -->
 
