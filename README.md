@@ -10,7 +10,7 @@ I also like to develop games during my free time :D 🎮
 - 📫 How to reach me: Drop me an email: e0526001@u.nus.edu
 - ⚡ Fun fact: I develop games as a side hobby :D
 
-## Languages
+## Languages and Technologies
 
 <!-- markdownlint-disable MD033 -->
 <p align="center">
@@ -19,6 +19,14 @@ I also like to develop games during my free time :D 🎮
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="icons/C.png" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.java.com/en/" title="Java"><img src="icons/Java.png" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="https://www.ruby-lang.org/en/" title="Ruby"><img src="icons/Ruby.png" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="https://en.wikipedia.org/wiki/HTML" title="HTML"><img src="icons/HTML.png" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="https://en.wikipedia.org/wiki/CSS" title="CSS"><img src="icons/CSS.png" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="https://www.javascript.com/" title="Javascript"><img src="icons/Javascript.png" height="35" width="auto" /></a>
   &nbsp;
 </p>
 <!-- markdownlint-enable MD033 -->
