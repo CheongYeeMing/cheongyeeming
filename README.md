@@ -57,8 +57,8 @@ I also like to develop games during my free time :D 🎮
 
 ## Find out more about me at
 
-- <p>Connect with me at <a href="https://www.linkedin.com/in/yee-ming-cheong-b18558212/" title="LinkedIn"><img src="icons/LinkedIn.png" height="15" width="auto" /></a></p>
-- <p>Watch my videos at <a href="https://www.youtube.com/channel/UCNwfenK31JlxQmSkiC2YBHA" title="YouTube"><img src="icons/YouTube.png" height="15" width="auto" /></a></p>
+- <p>Connect with me at <a href="https://www.linkedin.com/in/yee-ming-cheong-b18558212/" title="LinkedIn"><img src="icons/LinkedIn.png" height="25" width="auto" /></a></p>
+- <p>Watch my videos at <a href="https://www.youtube.com/channel/UCNwfenK31JlxQmSkiC2YBHA" title="YouTube"><img src="icons/YouTube.png" height="25" width="auto" /></a></p>
 
 <!--
 **CheongYeeMing/cheongyeeming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
