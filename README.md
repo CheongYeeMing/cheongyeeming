@@ -57,8 +57,8 @@ I also like to develop games during my free time :D 🎮
 
 ## Find out more about me at
 
-- <p><a href="https://www.linkedin.com/in/yee-ming-cheong-b18558212/" title="Adobe Premiere Pro"><img src="icons/PremierePro.png" height="35" width="auto" /></a> Connect with me</p>
-- [YouTube](https://www.youtube.com/channel/UCNwfenK31JlxQmSkiC2YBHA) Watch my videos
+- <p><a href="https://www.linkedin.com/in/yee-ming-cheong-b18558212/" title="LinkedIn"><img src="icons/LinkedIn.png" height="35" width="auto" /></a> Connect with me</p>
+- <p><a href="https://www.youtube.com/channel/UCNwfenK31JlxQmSkiC2YBHA" title="YouTube"><img src="icons/YouTube.png" height="35" width="auto" /></a> Connect with me</p>
 
 <!--
 **CheongYeeMing/cheongyeeming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
