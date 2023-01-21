@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Yee Ming! 👋 
+
+I'm currently a Year 3 Computer Science Undergraduate at NUS and planning to specialize in AI and SWE.
+I am passionate about learning new technologies and applying them to my own projects! 
+I also like to develop games during my free time :D 🎮
+
+#### Languages
+
 
 <!--
 **CheongYeeMing/cheongyeeming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
