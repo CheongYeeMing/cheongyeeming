@@ -46,7 +46,7 @@ I also like to develop games during my free time :D 🎮
   &nbsp;
   <a href="https://git-scm.com/" title="Git"><img src="icons/Git.png" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://docs.soliditylang.org/en/v0.8.17/" title="Solidity"><img src="icons/Solidity.png" height="35" width="auto" /></a>
+  <a href="https://docs.soliditylang.org/en/v0.8.17/" title="Solidity"><img src="icons/Solidity2.png" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.adobe.com/sg/products/photoshop.html" title="Adobe Photoshop"><img src="icons/Photoshop.png" height="35" width="auto" /></a>
   &nbsp;
