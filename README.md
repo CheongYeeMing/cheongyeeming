@@ -36,7 +36,7 @@ I also like to develop games during my free time :D 🎮
   &nbsp;
   <a href="https://nodejs.org/en/" title="NodeJS"><img src="icons/NodeJS.png" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://unity.com/" title="Unity"><img src="icons/Unity.png" height="35" width="auto" /></a>
+  <a href="https://unity.com/" title="Unity"><img src="icons/Unity2.png" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" title="C#"><img src="icons/CSharp.png" height="35" width="auto" /></a>
   &nbsp;
