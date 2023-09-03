@@ -1,6 +1,6 @@
 # Hi, I'm Yee Ming! 👋
 
-I'm currently a Year 3 Computer Science Undergraduate at NUS and planning to specialize in AI and SWE.
+I'm currently a Final Year Computer Science Undergraduate at NUS and planning to specialize in AI and SWE.
 I am passionate about learning new technologies and applying them to my own projects!
 I also like to develop games during my free time :D 🎮
 
