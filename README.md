@@ -44,7 +44,7 @@ I also like to develop games during my free time :D 🎮
   &nbsp;
   <a href="https://rubyonrails.org/" title="Ruby on Rails"><img src="icons/Rails.png" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://elixir-lang.org/" title="Elixir"><img src="icons/Elixir2.png" height="35" width="auto" /></a>
+  <a href="https://elixir-lang.org/" title="Elixir"><img src="icons/Elixir3.png" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://git-scm.com/" title="Git"><img src="icons/Git.png" height="35" width="auto" /></a>
   &nbsp;
