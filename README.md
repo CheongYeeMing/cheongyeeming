@@ -2,7 +2,7 @@
 
 I'm a Software Engineer at DSTA and I recently graduated from NUS with a Bachelor of Computing in Computer Science (Honours).
 I am passionate about learning new technologies and applying them to my own projects!
-I also like to develop games during my free time :D 🎮
+I enjoy developing games during my free time :D 🎮
 
 - 🔭 I’m currently working as a Software Engineer at DSTA
 - 🌱 I’m currently learning how to build scalable SaaS applications!
