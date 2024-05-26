@@ -1,13 +1,13 @@
 # Hi, I'm Yee Ming! 👋
 
-I'm currently a Final Year Computer Science Undergraduate at NUS and planning to specialize in AI and SWE.
+I'm a Software Engineer at DSTA and I recently graduated from NUS with a Bachelor of Computing in Computer Science (Honours).
 I am passionate about learning new technologies and applying them to my own projects!
 I also like to develop games during my free time :D 🎮
 
-- 🔭 I’m currently working on a Dental VR Unity3D Project
-- 🌱 I’m currently learning about Web3 and Blockchain
-- 👯 I’m looking to collaborate on a Blockchain application
-- 📫 How to reach me: Drop me an email: e0526001@u.nus.edu
+- 🔭 I’m currently working as a Software Engineer at DSTA
+- 🌱 I’m currently learning how to build scalable SaaS applications!
+- 👯 I specialize in Artificial Intelligence, Software Engineering, and Database Systems.
+- 📫 How to reach me: Drop me an email: yeeming1108@hotmail.com
 - ⚡ Fun fact: I develop games as a side hobby :D
 
 ## Languages and Technologies
@@ -48,9 +48,9 @@ I also like to develop games during my free time :D 🎮
   &nbsp;
   <a href="https://git-scm.com/" title="Git"><img src="icons/Git.png" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://docs.soliditylang.org/en/v0.8.17/" title="Solidity"><img src="icons/Solidity2.png" height="35" width="auto" /></a>
+  <!-- <a href="https://docs.soliditylang.org/en/v0.8.17/" title="Solidity"><img src="icons/Solidity2.png" height="35" width="auto" /></a>
   &nbsp;
-  <!-- <a href="https://www.adobe.com/sg/products/photoshop.html" title="Adobe Photoshop"><img src="icons/Photoshop.png" height="35" width="auto" /></a>
+  <a href="https://www.adobe.com/sg/products/photoshop.html" title="Adobe Photoshop"><img src="icons/Photoshop.png" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.adobe.com/sg/products/premiere.html" title="Adobe Premiere Pro"><img src="icons/PremierePro.png" height="35" width="auto" /></a>
   &nbsp; -->
@@ -59,8 +59,9 @@ I also like to develop games during my free time :D 🎮
 
 ## Find out more about me at
 
-- <p>Connect with me at <a href="https://www.linkedin.com/in/yee-ming-cheong-b18558212/" title="LinkedIn"><img src="icons/LinkedIn.png" height="25" width="auto" /></a></p>
-- <p>Watch my videos at <a href="https://www.youtube.com/channel/UCNwfenK31JlxQmSkiC2YBHA" title="YouTube"><img src="icons/YouTube.png" height="25" width="auto" /></a></p>
+- <p>View my Portfolio at   <a href="https://yeeming-portfolio.vercel.app/" title="Portfolio"><img src="icons/Portfolio.png" height="25" width="auto" /></a></p>
+- <p>Connect with me at   <a href="https://www.linkedin.com/in/yee-ming-cheong-b18558212/" title="LinkedIn"><img src="icons/LinkedIn.png" height="25" width="auto" /></a></p>
+- <p>Watch my videos at   <a href="https://www.youtube.com/channel/UCNwfenK31JlxQmSkiC2YBHA" title="YouTube"><img src="icons/YouTube.png" height="25" width="auto" /></a></p>
 
 <!--
 **CheongYeeMing/cheongyeeming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
