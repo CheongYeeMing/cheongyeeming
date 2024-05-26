@@ -1,6 +1,6 @@
 # Hi, I'm Yee Ming! 👋
 
-I'm a Software Engineer at DSTA and I recently graduated from NUS with a Bachelor of Computing in Computer Science (Honours).
+I'm a Software Engineer at DSTA and I graduated from NUS with a Bachelor of Computing in Computer Science (Honours).
 I am passionate about learning new technologies and applying them to my own projects!
 I enjoy developing games during my free time :D 🎮
 
